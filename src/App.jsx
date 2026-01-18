@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
+import "./App.css";
 
 const API = "https://task-manager-backend-production-3838.up.railway.app";
 
